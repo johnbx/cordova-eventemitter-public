@@ -1,0 +1,23 @@
+{
+  "name": "cordova-ventemitter-public",
+  "version": "2.0.0",
+  "description": "Event Plugin for Apache Cordova ---- Hacked packages to install",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbx/cordova-eventemitter-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbx/cordova-eventemitter-public/issues"
+  },
+  "homepage": "https://github.com/johnbx/cordova-eventemitter-public#readme"
+}
