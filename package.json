@@ -1,6 +1,6 @@
 {
-  "name": "cordova-ventemitter-public",
-  "version": "2.0.0",
+  "name": "cordova-eventemitter-public",
+  "version": "0.2.0",
   "description": "Event Plugin for Apache Cordova ---- Hacked packages to install",
   "main": "index.js",
   "directories": {
